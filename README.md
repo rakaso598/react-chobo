@@ -1,3 +1,5 @@
+/* react 개인자습용 저장소 */
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
